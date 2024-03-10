@@ -30,3 +30,8 @@ atlan_aws_s3_bucket_arn=arn:aws:s3:::atlan-tech-challenge-test
 atlan_postgres_connection_qualified_name=default/postgres/1709731987
 atlan_snowflake_connection_qualified_name=default/snowflake/1709731839
 ```
+
+#### Generate your own google-service-account secret-key.json for sheet reading capabilities: 
+```link
+https://developers.google.com/sheets/api/reference/rest?apix=true
+```
